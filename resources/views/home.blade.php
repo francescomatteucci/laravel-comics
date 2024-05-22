@@ -4,5 +4,5 @@
 
 @section('content')
     
-<h1>Sono la pagina blog</h1>
+<h1>Sono la pagina home</h1>
 @endsection
